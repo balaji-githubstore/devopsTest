@@ -1,0 +1,6 @@
+[
+{
+"username":"king",
+"pass":"hello"
+}
+]
